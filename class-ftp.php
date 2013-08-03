@@ -1,5 +1,5 @@
 <?php
-require_once( 'class-greed77-base.php' );
+require_once( __DIR__ . DIRECTORY_SEPARATOR . 'abstracts' . DIRECTORY_SEPARATOR . 'class-greed77-base.php' );
 
 class Greed77_FTP extends Greed77_Base
 {
